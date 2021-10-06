@@ -1,7 +1,12 @@
 # ThereminProject
 Creation and assambly of a theremin(musical instrument) from electrical circuits 
 
+## General info
+### Authors
 
+@ **Ivan Porras Estebanez**
+
+@ **Jimena de la Fuente Alcalde**
 
 
 
