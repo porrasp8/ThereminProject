@@ -1,14 +1,18 @@
 # ThereminProject
 Creation and assambly of a theremin(musical instrument) from electrical circuits 
+![FinalResult](images/fina3.png)
 
 ## General info
 ### Authors
 
-@ **Ivan Porras Estebanez**
+@ [**Ivan Porras Estebanez**](https://github.com/Ivan-Porras)
 
-@ **Jimena de la Fuente Alcalde**
+@ [**Jimena de la Fuente Alcalde**](https://instagram.com/_jimawariii_03_?utm_medium=copy_link)
 
 
+### References
+
+@ [**GreatScottLab**](https://www.instructables.com/Make-Your-Own-Simple-Theremin/)
 
 
 
