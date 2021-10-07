@@ -1,6 +1,18 @@
 # ThereminProject
 Creation and assambly of a theremin(musical instrument) from electrical circuits 
-![FinalResult](images/fina3.png)
+<p align="center">
+<img width=500px src="images/final3.png" alt="explode"></a>
+
+<div align="center">
+<img width=100px src="https://img.shields.io/badge/status-finished-green" alt="explode"></a>
+<img width=80px src="https://img.shields.io/badge/license-CC-blue" alt="explode"></a>
+</div>
+
+## Table of contents 
+- [Table of Contents](#table-of-contents)
+- [General info](#general-info)
+
+
 
 ## General info
 ### Authors
