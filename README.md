@@ -11,7 +11,7 @@ Creation and assambly of a theremin(musical instrument) from electrical circuits
 ## Table of contents 
 - [Table of Contents](#table-of-contents)
 - [General info](#general-info)
-
+- [Parts required](#parts-required)
 
 
 ## General info
@@ -21,16 +21,22 @@ Creation and assambly of a theremin(musical instrument) from electrical circuits
 
 @ [**Jimena de la Fuente Alcalde**](https://instagram.com/_jimawariii_03_?utm_medium=copy_link)
 
-
 ### References
 
-@ [**GreatScottLab**](https://www.instructables.com/Make-Your-Own-Simple-Theremin/)
+@ [**GreatScottLab**](https://www.instructables.com/member/GreatScottLab/)
 
 
-
-
-
-
+## Parts required
+This project requires some electrical componentes(capacitators, resistors, integrated circuits ...) 
+Here I gonna put the list of components that I used to complete it(You can find all this components in pages like aliexpress or ebay): 
+- 1x CD4093 NAND IC 
+- 1x MCP602 OpAmp
+- 2x 100pF Capacitator 
+- 1x 1nF(1000pf) Capacitor
+- 1x 4.7µF Capacitor
+- 6x 10k Resistor
+- 1x 5.1k Resistor 
+- 1x 6.8k Resistor
 
 
 ## License
