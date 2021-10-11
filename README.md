@@ -25,18 +25,29 @@ Creation and assambly of a theremin(musical instrument) from electrical circuits
 
 @ [**GreatScottLab**](https://www.instructables.com/member/GreatScottLab/)
 
+### Other information: 
+
+@ **InitDate:** 23/02/2021
+
+@ **PresentationDate:** 27/6/2021 
+
 
 ## Parts required
 This project requires some electrical componentes(capacitators, resistors, integrated circuits ...) 
 Here I gonna put the list of components that I used to complete it(You can find all this components in pages like aliexpress or ebay): 
-- 1x CD4093 NAND IC 
-- 1x MCP602 OpAmp
-- 2x 100pF Capacitator 
+- 1x [CD4093 NAND IC](https://es.aliexpress.com/item/1005001922727519.html?spm=a2g0o.productlist.0.0.1f9f2dd8dP3mdU&algo_pvid=a6ead60f-3b0a-493a-a8fc-e203e4897054&aem_p4p_detail=202110110350132362705910756620013918823&algo_exp_id=a6ead60f-3b0a-493a-a8fc-e203e4897054-6&pdp_ext_f=%7B%22sku_id%22%3A%2212000018120013015%22%7D)
+- 1x [MCP602 OpAmp](https://es.aliexpress.com/item/32459211616.html?spm=a2g0o.productlist.0.0.333f4c9eiVFawj&algo_pvid=409f117a-8b95-41cb-946f-04548cbbd9a2&algo_exp_id=409f117a-8b95-41cb-946f-04548cbbd9a2-9&pdp_ext_f=%7B%22sku_id%22%3A%2256403604204%22%7D)
+- 2x [100pF Capacitator](https://es.aliexpress.com/item/1005001958775985.html?spm=a2g0o.productlist.0.0.248c4dab32kasv&algo_pvid=52309e2a-cc47-48b1-b793-d74953763794&aem_p4p_detail=202110110352054216941306177600013922384&algo_exp_id=52309e2a-cc47-48b1-b793-d74953763794-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000018228270124%22%7D)
 - 1x 1nF(1000pf) Capacitor
 - 1x 4.7µF Capacitor
 - 6x 10k Resistor
 - 1x 5.1k Resistor 
 - 1x 6.8k Resistor
+- 2x 10k Potentiometer
+- 1x Antenna
+- 1x Power Jack
+- 1x Audio Jack
+- Personal Recommendation: 1x [Portable mini speaker](https://es.aliexpress.com/item/1005003053429529.html?spm=a2g0o.productlist.0.0.32b95970dXEWev&algo_pvid=33723007-0a05-4028-ae22-84704daf29ae&algo_exp_id=33723007-0a05-4028-ae22-84704daf29ae-12&pdp_ext_f=%7B%22sku_id%22%3A%2212000023555611420%22%7D)
 
 
 ## License
