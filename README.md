@@ -18,7 +18,7 @@ Creation and assambly of a theremin(musical instrument) from electrical circuits
 ## General info
 ### Authors
 
-@ [**Ivan Porras Estebanez**](https://github.com/Ivan-Porras)
+@ [**Ivan Porras Estebanez**](https://github.com/porrasp8)
 
 @ [**Jimena de la Fuente Alcalde**](https://instagram.com/_jimawariii_03_?utm_medium=copy_link)
 
